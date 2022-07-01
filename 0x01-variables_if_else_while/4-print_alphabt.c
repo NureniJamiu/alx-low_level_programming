@@ -4,6 +4,7 @@
  * main - This program prints all the alphabets
  * in lowercase excluding the q and e characters
  * and explictly uses the putchar() function
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
