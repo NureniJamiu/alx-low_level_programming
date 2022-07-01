@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* main - This program prints all the alphabets
+/* 
+ * main - This program prints all the alphabets
  * in lowercase excluding the q and e characters
  * and explictly uses the putchar() function
  */
