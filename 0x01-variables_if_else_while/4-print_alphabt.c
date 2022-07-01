@@ -5,7 +5,6 @@
  * in lowercase excluding the q and e characters
  * and explictly uses the putchar() function
  */
-
 int main(void)
 {
 	char letters;
