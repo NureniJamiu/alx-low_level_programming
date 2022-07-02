@@ -50,6 +50,8 @@
 — This program prints all possible combinations of single-digit numbers in ascending order, separated by a comma `,`, followed by a space. The usage of any variable of type `char` is strictly not allowed likewise the use of `printf` and `puts` functions.
 
 
-— Author: Nureni Jamiu Olawale a.k.a dhulnurein
+— Author: **Nureni Jamiu Olawale** a.k.a dhulnurein
+
 — Website: https://www.dhulnurein.netlify.app
-— Twitter: @dhulnurein
+
+— Twitter: @dhulnurein_
